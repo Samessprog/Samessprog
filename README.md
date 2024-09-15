@@ -20,7 +20,7 @@ Feel free to explore my projects and contributions to see the skills and technol
 <div  align="center">
 <h2> Top Languages 🔺 </h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samessprog&layout=compact&bg_color=00000000&hide_border=true&text_color=777777" alt="Top Languages" style="max-width: 100%; height: auto; width:45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samessprog&layout=compact&bg_color=00000000&hide_border=true&text_color=777777" alt="Top Languages" style="max-width: 100%; height: auto;">
 </div>
 </div>
 
