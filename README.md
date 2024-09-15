@@ -21,3 +21,7 @@ Feel free to explore my projects and contributions to see the skills and technol
 <div style="width: 100%; max-width: 100%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samessprog&layout=compact&bg_color=00000000&hide_border=true&text_color=777777" alt="Top Languages" >
 </div>
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=Samessprog&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samessprog&hide_title=true&background=00000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff)
+
