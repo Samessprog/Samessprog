@@ -42,9 +42,8 @@ My focus is on building applications that solve real-world problems, delivering 
 <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="React Testing Library" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-
-
-      
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+<img src="https://img.shields.io/badge/Prettier-ff69b4?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
 </p>
 
 
