@@ -11,7 +11,6 @@ I place a strong emphasis on semantic HTML and accessibility to ensure that my w
 
 My focus is on building applications that solve real-world problems, delivering a seamless user experience through thoughtful design and cutting-edge technology. Feel free to explore my projects and contributions to see the skills and technologies I have applied in my work.
 
-
 <div  align="center"> 
 <h2> Activities 📈 </h2>
 <div>
