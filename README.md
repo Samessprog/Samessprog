@@ -12,6 +12,7 @@ I place a strong emphasis on semantic HTML and accessibility to ensure that my w
 My focus is on building applications that solve real-world problems, delivering a seamless user experience through thoughtful design and cutting-edge technology. Feel free to explore my projects and contributions to see the skills and technologies I have applied in my work.
 
 <div  align="center"> 
+      
 <h2> Activities 📈 </h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Samessprog&show_icons=true&hide_rank=true&hide_title=true&bg_color=00000000&hide_border=true&icon_color=959da5&text_color=777777" alt="My GitHub stats" style="max-width: 100%; height: auto;">
